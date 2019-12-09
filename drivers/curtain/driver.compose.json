@@ -5,7 +5,8 @@
     "name": {
         "en": "Curtains",
         "nl": "Gordijnen",
-        "de" : "Vorhänge"
+        "de" : "Vorhänge",
+        "sv" : "Gardiner"
     },
     "$extends": [
         "default"
