@@ -5,7 +5,8 @@
     "name": {
         "en": "Vacuum Cleaner",
         "nl": "Stofzuiger",
-        "de" : "Staubsauger"
+        "de" : "Staubsauger",
+        "sv" : "Dammsugare"
     },
     "$extends": [
         "default"
