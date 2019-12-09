@@ -4,7 +4,8 @@
     "capabilities": [],
     "name": {
         "en": "Other (Advanced)",
-        "nl": "Alarm"
+        "nl": "Alarm",
+        "sv" : "Övrigt"
     },
     "$extends": [
         "default"
