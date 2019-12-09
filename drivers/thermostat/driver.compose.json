@@ -5,7 +5,8 @@
     "name": {
         "en": "Thermostat",
         "nl": "Thermostaat",
-        "de" : "Thermostat"
+        "de" : "Thermostat",
+        "sv" : "Termostat"
     },
     "$extends": [
         "default"
