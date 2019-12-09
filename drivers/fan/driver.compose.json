@@ -5,7 +5,8 @@
     "name": {
         "en": "Fan",
         "nl": "Ventilator",
-        "de" : "Ventilator"
+        "de" : "Ventilator",
+        "sv" : "Fläkt"
     },
     "$extends": [
         "default"
