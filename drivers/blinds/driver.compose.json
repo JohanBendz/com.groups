@@ -5,7 +5,8 @@
     "name": {
         "en": "Blinds",
         "nl" :  "Jaloezieën & Lamellen",
-        "de" : "Rolladen"
+        "de" : "Rolladen",
+        "sv" : "Persienner"
     },
     "$extends": [
         "default"
