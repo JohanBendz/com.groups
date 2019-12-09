@@ -5,7 +5,8 @@
     "name": {
         "en": "Lock",
         "nl": "Slot",
-        "de" : "Schloss"
+        "de" : "Schloss",
+        "sv" : "Lås"
     },
     "$extends": [
         "default"
