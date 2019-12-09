@@ -5,7 +5,8 @@
     "name": {
         "en": "Window Coverings",
         "nl": "Raambekleding",
-        "de" : "Fenster-Abdeckungen"
+        "de" : "Fenster-Abdeckungen",
+        "sv" : "Fönstertäckningar"
     },
     "$extends": [
         "default"
