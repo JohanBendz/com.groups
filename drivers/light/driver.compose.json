@@ -5,7 +5,8 @@
     "name": {
         "en": "Light",
         "nl": "Lamp",
-        "de" : "Lampe"
+        "de" : "Lampe",
+        "sv" : "Lampa"
     },
     "$extends": [
         "default"
