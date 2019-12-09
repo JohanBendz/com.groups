@@ -5,7 +5,8 @@
     "name": {
         "en": "Kettle",
         "nl": "Waterkoker",
-        "de" : "Wasserkocher"
+        "de" : "Wasserkocher",
+        "sv" : "Vattenkokare"
     },
     "$extends": [
         "default"
