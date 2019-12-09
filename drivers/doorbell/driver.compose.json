@@ -5,7 +5,8 @@
     "name": {
         "en": "Doorbell",
         "nl": "Deurbel",
-        "de" : "Türklingel"
+        "de" : "Türklingel",
+        "sv" : "Dörrklocka"
     },
     "$extends": [
         "default"
