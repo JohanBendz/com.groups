@@ -5,7 +5,8 @@
     "name": {
         "en": "Speaker",
         "nl": "Speaker",
-        "de" : "Lautsprecher"
+        "de" : "Lautsprecher",
+        "sv" : "Högtalare"
     },
     "$extends": [
         "default"
