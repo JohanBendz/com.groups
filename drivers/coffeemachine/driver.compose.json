@@ -5,7 +5,8 @@
     "name": {
         "en": "Coffee machine",
         "nl": "Koffiemachine",
-        "de" : "Kaffemaschine"
+        "de" : "Kaffemaschine",
+        "sv" : "Kaffemaskin"
     },
     "$extends": [
         "default"
