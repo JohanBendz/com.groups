@@ -5,7 +5,8 @@
     "name": {
         "en": "TV",
         "nl": "TV",
-        "de" : "TV"
+        "de" : "TV",
+        "sv" : "TV"
     },
     "$extends": [
         "default"
