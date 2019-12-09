@@ -5,7 +5,8 @@
     "name": {
         "en": "Sunshade",
         "nl": "Zonnescherm",
-        "de" : "Sonnenschirm"
+        "de" : "Sonnenschirm",
+        "sv" : "Solskydd"
     },
     "$extends": [
         "default"
