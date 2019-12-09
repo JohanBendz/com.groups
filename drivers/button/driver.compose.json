@@ -5,7 +5,8 @@
     "name": {
         "en": "Button",
         "nl": "Knop",
-        "de" : "Taste"
+        "de" : "Taste",
+        "sv" : "Knapp"
     },
     "$extends": [
         "default"
