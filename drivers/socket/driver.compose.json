@@ -6,7 +6,7 @@
         "en": "Wall Plug",
         "nl": "Schakeldoos",
         "de" : "Steckdose",
-        "sv" : "Vägguttag"
+        "sv" : "Väggplugg"
     },
     "$extends": [
         "default"
