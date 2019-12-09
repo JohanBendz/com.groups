@@ -4,7 +4,8 @@
     "name": {
         "en": "Home Security",
         "nl": "Huisbeveiliging",
-        "de" : "Heim-Sicherheit"
+        "de" : "Heim-Sicherheit",
+        "sv" : "Hemlarm"
     },
     "$extends": [
         "default"
