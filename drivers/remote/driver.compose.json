@@ -5,7 +5,8 @@
     "name": {
         "en": "Remote",
         "nl": "Afstandsbediening",
-        "de" : "Fernbedienung"
+        "de" : "Fernbedienung",
+        "sv" : "Fjärrkontroll"
     },
     "$extends": [
         "default"
